@@ -1,5 +1,5 @@
 # connect4
-Minimax connect 4 algorithm as well as a pygame-built GUI.
+Minimax connect 4 algorithm as well as a pygame-built GUI. From the video you can see that the algorithm (who played yellow) doesn't differentiate between a guaranteed victory now or a guaranteed victory later.
 
 The minimax file must be compiled for your system using cython (`pip install Cython`).
 
